@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to right,#99E2B4, #88D4AB, #78C6A3, #56AB91, #469D89, #358F80, #248277, #14746F,#036666);
+    background: linear-gradient(to right,#145277, #266785, #397C93, #4C91A1, #5EA6AF, #5EA6AF, #71BBBD, #83D0CB);
 }
 
 .container{
